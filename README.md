@@ -20,7 +20,7 @@ Bot link -https://t.me/advance_content_saver_bot
 - Time delay is added to avoid FloodWait and keep user account safe.
 - `/setchat` directly upload in channel or group
 # Variables
-
+pip
 - `API_ID`
 - `API_HASH`
 - `SESSION`
